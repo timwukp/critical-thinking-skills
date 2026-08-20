@@ -83,6 +83,10 @@ critical-thinking-skills/
 
 ## 哲學出處 | Philosophical Sources
 
+> **中文**:本專案引用尼采是**方法論借用**——取其分析工具(譜系學批判、視角主義、價值重估的思考框架),而非採納其哲學結論或世界觀。本 skill 不預設、不推廣、也不反對任何宗教或信仰立場;它是一個中性的思維分析工具,屬於學術與工程範疇。
+>
+> **English**: This project's use of Nietzsche is a **methodological borrowing** — adopting his analytical tools (genealogical critique, perspectivism, the framework of value revaluation), not his philosophical conclusions or worldview. This skill presupposes, promotes, and opposes no religion or belief system; it is a neutral reasoning tool, academic and technical in scope.
+
 **中文**:深度批判模式的尼采方法論出處(詳見 `references/nietzsche.md`):
 
 **English**: Sources for the Nietzschean methodology in deep-critique mode (see `references/nietzsche.md` for details):
